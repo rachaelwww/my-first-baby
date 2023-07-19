@@ -4,4 +4,4 @@ I want to practice git.
 I want to use git in my work and home. 
 Hello world!
 What am I going to have for lunch today?
-I'm feeling like something Asian (as always)
+making a merge conflict.
